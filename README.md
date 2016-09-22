@@ -1,6 +1,6 @@
 # RoadApiClient-Andrid
 ##Client library implementation of google's Road API
-   ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/device-2016-09-17-163711.png) ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/device-2016-09-17-163745.png) ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/device-2016-09-17-163845.png) ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/device-2016-09-17-163920.png)
+   ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/screens/device-2016-09-17-163711.png) ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/screens/device-2016-09-17-163745.png) ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/screens/device-2016-09-17-163845.png) ![screenshots](https://raw.githubusercontent.com/xibsked/RoadApiClient-Andrid/master/screens/device-2016-09-17-163920.png)
 
 ##How to add library to project
    1. Clone or Download project
