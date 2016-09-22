@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/actions_show_polylines"
+            android:checked="true"
+            android:title="@string/action_show_polylines" />
+        <item
+            android:id="@+id/actions_show_actual_points"
+            android:checked="true"
+            android:title="@string/action_show_actual_points" />
+        <item
+            android:id="@+id/actions_show_snapped_points"
+            android:title="@string/action_show_snapped_points" />
+    </group>
+
+</menu>

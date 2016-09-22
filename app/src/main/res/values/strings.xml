@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Continum</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_show_polylines">Show Polylines</string>
+    <string name="action_show_actual_points">Show Actual Points</string>
+    <string name="action_show_snapped_points">Show Snapped Points</string>
+    <string name="title_marker">%1$06f,%2$06f</string>
+    <string name="title_activity_m2aps">Map</string>
+</resources>
